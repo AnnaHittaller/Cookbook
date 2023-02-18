@@ -53,10 +53,10 @@
 
 }
 .image1{
-    background-image: url(./assets/bombay\ eggs.jpg);
+    background-image: url(./assets/thai-style-salmon-and-noodle-soup.jpg);
     background-position: ;
     object-fit: cover;
-    background-size: auto;
+    background-size: cover; 
     background-repeat: no-repeat;
     grid-row: 1/9;
     grid-column: 1/4;;
